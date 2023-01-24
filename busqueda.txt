@@ -1,0 +1,1379 @@
+/c/Users/Leonardo/Desktop/Escritorio/AISuite3_3.00.52/AppSetup/AppSetup.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/a.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/alert.black.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/alert.red.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/apache_pb.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/apache_pb2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/back.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/ball.gray.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/ball.red.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/binary.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/binhex.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/blank.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/bomb.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/box1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/box2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/broken.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/burst.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/c.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/comp.blue.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/comp.gray.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/compressed.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/continued.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/dir.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/diskimg.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/down.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/dvi.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/f.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/folder.open.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/folder.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/folder.sec.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/forward.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/generic.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/generic.red.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/generic.sec.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/hand.right.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/hand.up.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/icon.sheet.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/image1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/image2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/image3.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/index.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/layout.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/left.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/link.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/movie.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odb.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odc.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odf.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odg.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odi.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odm.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odp.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6ods.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6odt.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6otc.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6otf.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6otg.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6oth.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6oti.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6otp.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6ots.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/odf6ott.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/p.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/patch.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pdf.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie0.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie3.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie4.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie5.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie6.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie7.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/pie8.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/portal.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/ps.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/quill.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/right.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/screw1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/screw2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/script.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/back.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/binary.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/binhex.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/blank.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/broken.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/burst.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/comp1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/comp2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/compressed.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/continued.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/doc.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/folder.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/folder2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/forward.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/generic.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/generic2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/generic3.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/image.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/image2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/index.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/key.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/movie.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/patch.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/ps.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/rainbow.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/sound.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/sound2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/tar.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/text.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/transfer.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/unknown.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/small/uu.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/sound1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/sound2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/sphere1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/sphere2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/svg.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/tar.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/tex.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/text.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/transfer.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/unknown.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/up.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/uu.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/uuencoded.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/world1.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/world2.png
+/c/Users/Leonardo/Desktop/Escritorio/Apache24/icons/xml.png
+/c/Users/Leonardo/Desktop/Escritorio/bios/PPSSPP/rargray.png
+/c/Users/Leonardo/Desktop/Escritorio/bios/PPSSPP/unknown.png
+/c/Users/Leonardo/Desktop/Escritorio/bios/PPSSPP/zip.png
+/c/Users/Leonardo/Desktop/Escritorio/Clases virtuales/Tecnica/1ro 4ta g2/Caligrafía Lámina 2 (15, 10, 7).png
+/c/Users/Leonardo/Desktop/Escritorio/Clases virtuales/Tecnica/1ro 4ta g2/Ejemplo caligrafia.png
+/c/Users/Leonardo/Desktop/Escritorio/Cosas Utiles/EJEMPLO DEF.png
+/c/Users/Leonardo/Desktop/Escritorio/Cosas Utiles/ejemplo faja.png
+/c/Users/Leonardo/Desktop/Escritorio/final.png
+/c/Users/Leonardo/Desktop/Escritorio/Finales/Pedagogia/SEXO-Y-GENERO.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_114.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_170.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_36.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_48.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_512.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_57.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/icons/studio_72.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/runner/assets/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/runner/ProjectFiles/src/main/assets/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/runner/ProjectFiles/src/main/res/drawable-hdpi/icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/runner/res/drawable-hdpi/icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_check_off.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_check_on.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_list_divider.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_list_section_header_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_picker_list_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_picker_list_longpressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_picker_list_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_place_default_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_profile_default_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_profile_picture_blank_portrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable/com_facebook_profile_picture_blank_square.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-ldpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/bin/res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_check_off.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_check_on.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_list_divider.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_list_section_header_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_longpressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_selector_disabled.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_place_default_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_profile_default_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_profile_picture_blank_portrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable/com_facebook_profile_picture_blank_square.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-ldpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-mdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_blue_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_blue_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_blue_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_grey_focused.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_grey_normal.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_button_grey_pressed.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_close.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_inverse_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_picker_magnifier.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_black_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_black_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_blue_bottomnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_blue_topnub.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/facebook-android-sdk/facebook/res/drawable-xhdpi/com_facebook_tooltip_blue_xout.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/powered_by_google_dark.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-hdpi/powered_by_google_light.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/powered_by_google_dark.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-mdpi/powered_by_google_light.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/powered_by_google_dark.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xhdpi/powered_by_google_light.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/powered_by_google_dark.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/google_play_services_lib/res/drawable-xxhdpi/powered_by_google_light.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/play_apk_expansion/downloader_library/res/drawable-hdpi/notify_panel_notification_icon_bg.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/play_apk_expansion/downloader_library/res/drawable-mdpi/notify_panel_notification_icon_bg.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/play_licensing/sample/res/drawable/icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Android/SDKLibs/play_licensing/test/res/drawable/icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_hdpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_ldpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_mdpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_xhdpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_xxhdpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/icon_xxxhdpi.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/icons/ouyaIcon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/portrait_splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Android/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/HTML5/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon114.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon120.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon144.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon152.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon167.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon57.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon72.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/icons/icon76.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPadRetinaSplash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPadRetinaSplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPadsplash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPadsplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone5splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone5splashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone6PlusSplash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone6PlusSplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone6Splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhone6SplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhoneRetinasplash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhoneRetinasplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhonesplash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/iPhonesplashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/iOS/splashPortrait.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Linux/icon64.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Linux/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Mac/icon512.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Mac/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Tizen/icon117.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Tizen/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/windows/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Windows8/logos/logo150.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Windows8/logos/logo30.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Windows8/logos/logo310.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Windows8/logos/logo50.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/Windows8/splashscreen.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/logos/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WindowsUAP/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/ApplicationIcon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide1.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide2.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide3.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide4.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide5.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide6.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide7.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide8.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/CycleWide9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipMedBack.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipMedFront.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipSmallBack.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipSmallFront.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipWideBack.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/FlipWideFront.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/IconicSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Configs/Default/WinPhone/IconicWide.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/114x114_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/120x120_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/144x144_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/152x152_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/167x167_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/57x57_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/72x72_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/76x76_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-568h@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-667h@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-736h@3x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Interpreted/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Licenses/Immersion.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/tips_banner.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_MC.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_Pro.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_Pro_sale.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_Pro_sale25.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_Standard.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upgrade_Standard_free.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_Amazon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_android.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_HTML5.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_iOS.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_Mac.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upsale_MS_Sale.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_Tizen.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_Ubuntu.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_UWP.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/upsale_windows_apps.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_WinPhone.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_Winter_sale_2013.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_wp8.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Tips/images/Upsale_YoyoCompiler.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF1.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF10.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF11.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF12.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF13.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF14.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF15.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF2.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF3.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF4.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF5.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF6.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF7.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF8.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/html5game/particles/IDR_GIF9.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/liveTile.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/Logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/secondaryTile.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/secondaryWideTile.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/SmallLogo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/SplashScreen.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Native/resources/Assets/StoreLogo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Windows8/images/logo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Windows8/images/smalllogo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Windows8/images/splashscreen.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Windows8/images/storelogo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/Windows8/Windows8/images/widelogo.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/arm/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x64/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WindowsUAP/x86/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/alignmentgrid.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/AlignmentGrid.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/ApplicationIcon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/Tiles/FlipCycleTileLarge.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/Tiles/FlipCycleTileMedium.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/Tiles/FlipCycleTileSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/Tiles/IconicTileMediumLarge.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/arm/Assets/Tiles/IconicTileSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/alignmentgrid.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/AlignmentGrid.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/ApplicationIcon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/Tiles/FlipCycleTileLarge.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/Tiles/FlipCycleTileMedium.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/Tiles/FlipCycleTileSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/Tiles/IconicTileMediumLarge.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/WinPhone/x86/Assets/Tiles/IconicTileSmall.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/114x114_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/120x120_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/144x144_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/152x152_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/167x167_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/57x57_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/72x72_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/76x76_icon.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-568h@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-667h@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default-736h@3x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/iOS/TemplateProject/${YYXCodeProjName}/Supporting Files/Default@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/Mac/TemplateProject/${YYXCodeProjName}/Games/splash.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/arm/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x64/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/LargeLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/Logo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/SmallishLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/SmallLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/SplashScreen.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/StoreLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/GameMaker-Studio-1.4.1760/YYC/WindowsUAP/exe/x86/Assets/WideLogo.scale-100.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/10.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/11.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/12.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/13.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/14.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/15.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/16.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/17.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/18.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/19.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/20.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/21.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/22.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/23.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/24.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/25.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/26.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/27.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/28.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/29.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/30.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/31.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/32.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/33.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/34.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/35.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/36.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/37.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/38.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/39.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/4.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/40.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/41.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/42.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/43.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/44.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/45.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/46.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/47.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/48.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/49.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/5.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/50.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/51.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/52.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/53.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/54.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/55.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/56.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/57.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/58.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/59.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/6.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/60.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/7.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/8.png
+/c/Users/Leonardo/Desktop/Escritorio/Juego de cartas/9.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/bienesraices_inicio/node_modules/growly/example/cake.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/bienesraices_inicio/node_modules/growly/example/muffin.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/bienesraices_inicio/node_modules/gulp-notify/assets/gulp-error.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/bienesraices_inicio/node_modules/gulp-notify/assets/gulp.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/bienesraices_inicio/node_modules/gulp-notify/examples/gulp.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica-Final/build/img/icono_edm.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica-Final/build/img/icono_rock.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/build/img/icono_edm.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/build/img/icono_rock.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/src/img/._icono_edm.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/src/img/._icono_rock.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/src/img/icono_edm.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/FestivalMusica_inicio/src/img/icono_rock.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/proyectoDos/img/icono_1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/proyectoDos/img/icono_2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/proyectoDos/img/icono_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/proyectoDos/img/icono_4.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/proyectoDos/img/logo.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/páginaUno/imagenes/html-5.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/páginaUno/imagenes/mapa.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/páginaUno/imagenes/profesor.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Curso Udemy/páginaUno/imagenes/quimica.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 10.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 4.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 5.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 6.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 7.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 8.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/DB 9.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/facebook.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/girar-a-la-izquierda.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/instagram.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/linkedin.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/mundo.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Pagina-Personal/img/volver.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Portafolio1/img/Amarillo Profesional Gradiente Tecnología Comunicación Interna Sitio Web.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Portafolio1/img/icono1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/buttons/button_exit.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/buttons/button_restart.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/buttons/button_resume.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/buttons/button_start.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/big_demon/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/elf/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/goblin/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/imp/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/muddy/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/idle/0 - Copy.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/skeleton/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/idle/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/idle/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/idle/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/idle/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/run/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/run/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/run/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/characters/tiny_zombie/run/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/coin_f0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/coin_f1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/coin_f2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/coin_f3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/heart_empty.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/heart_full.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/heart_half.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/items/potion_red.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/0.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/10.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/11.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/12.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/13.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/14.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/15.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/16.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/17.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/2.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/3.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/4.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/5.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/6.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/7.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/8.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/tiles/9.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/weapons/arrow.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/weapons/bow.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Python/Juego/assets/images/weapons/fireball.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Sin título.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/boton1.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/certificado.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/contacto.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/face.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/FondoPizzeria.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/insta.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/lista.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/logotw.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/PizzaLogo.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/Imagenes/twitter.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/cssIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/flechaAbajo.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/flechaArriba.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/htmlIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/informaticaIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/jsIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/profeIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/Programación/Test/páginaPrueba/Imagenes/quimicaIcono.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/background.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/bkNoche.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Castillo (1).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Castillo (2).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Castillo (3).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Castillo (4).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Castillo (5).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Cofre (1).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Cofre (2).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Cofre (3).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Cofre (4).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Cofre (5).png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/explosion-mana.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/explosion-mana0.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/explosion-mana1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/explosion-mana2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/explosion-mana3.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/ground.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/luz.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR-attack0.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR-attack1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR-attack2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR-der-2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR-der.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MagoSPR.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MALO-ataque.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/MALO.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/malos.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Mana.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Mana0.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Mana1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Mana2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/mazmorra.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/mundillo.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/mundillo1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/asteroides.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/bh.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/fondo.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/Fondo2.1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/Fondo2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/heart.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/nave-pj.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/nave.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/naves-bh.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/planeta1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/planeta2.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/pngegg.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/naves/Sin título-1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Nube.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/png-Iluminacion-Png-Destellos-De-Sol-Png-destello-de-luz.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/pngwing.com.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/Sin título-1.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/sprInvocacion.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/spriteInvocacion.png
+/c/Users/Leonardo/Desktop/Escritorio/sprites/suelos.png
+/c/Users/Leonardo/Desktop/Escritorio/Test/Imagenes/boton1.png
+/c/Users/Leonardo/Desktop/Escritorio/Test/Imagenes/certificado.png
+/c/Users/Leonardo/Desktop/Escritorio/Test/Imagenes/contacto.png
+/c/Users/Leonardo/Desktop/Escritorio/Test/Imagenes/lista.png
+/c/Users/Leonardo/Desktop/Escritorio/Test/Imagenes/logotw.png
+/c/Users/Leonardo/Desktop/Escritorio/Vidios leo/El umbral de la noche.png
+/c/Users/Leonardo/Desktop/Escritorio/Vidios leo/elumbraldelanoche.png
+/c/Users/Leonardo/Desktop/Escritorio/Vidios leo/elumbraldelanoche1.png
+/c/Users/Leonardo/Desktop/Escritorio/Vidios leo/image-removebg-preview.png
+/c/Users/Leonardo/Desktop/Escritorio/Vidios leo/Portada.png
+/c/Users/Leonardo/Desktop/Escritorio/WIN_AID_V17.4.0.51_AP_ZNT/1.INSTALAR/resources/content/images/appIcon.png
+/c/Users/Leonardo/Desktop/Escritorio/WIN_AID_V17.4.0.51_AP_ZNT/1.INSTALAR/resources/content/images/appIcon2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/1200px-Instagram_logo.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/50icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/54_54.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/70navidad.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/crosszoom.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/crosszoom@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/doorway.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/doorway@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Dir Insert.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Dir Insert@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Insert_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Insert_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Roll_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Down Roll_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/drop.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/drop@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/erase.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/erase@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Evaporate 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Evaporate 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Fade_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Fade_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/left Dir Insert.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/left Dir Insert@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Left Roll_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Left Roll_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/linear wipe.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/linear wipe@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/pinwheel.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/pinwheel@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/pixelate.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/pixelate@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/push.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/push@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Right Dir Insert.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Right Dir Insert@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Right Roll_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Right Roll_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/roll_clockwise.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/roll_clockwise@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/rounde_zoom_out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/rounde_zoom_out@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/skew_right_split.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/skew_right_split@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/twrl.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/twrl@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up Dir Insert.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up Dir Insert@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up Insert_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up Insert_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up-Roll.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/AnimationWithGUID/Up-Roll@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/cinema-style.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/cinema-style@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/doomo.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/doomo@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/Evaporate 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/No Animation.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/No Animation@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/radom.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/radom@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/Random 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/Random 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/richtick.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/richtick@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/string-Blur.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/string-Blur@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/type-writer.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/type-writer@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/wavy - style.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Base/wavy - style@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Boom!.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Boom!@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom in 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom in 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom in 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom in 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom out 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Bounce to zoom out 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate to zoom in 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate to zoom in 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate to zoom in 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate to zoom in 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Clockwise rotate@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Counter clockwise rotate.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Counter clockwise rotate@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Down Up 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Down Up 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Down Up 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Down Up 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Drop_An.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Drop_An@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Expansion.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Expansion@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 3@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Slide 4@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Zoom In.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Zoom In@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Zoom Out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade Zoom Out@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fade@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Down1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Down1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Down2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Down2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Up1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Up1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Up2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Flip Up2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly in and Fade out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly in and Fade out@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly in and Fly out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly in and Fly out@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly to zoom in.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Fly to zoom in@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Grow Shrink.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Grow Shrink@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to bottom.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to bottom@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to left.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to left@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to lower left.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to lower left@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to lower right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to lower right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to top.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to top@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper left.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper left@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper right and zoom in.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper right and zoom in@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Move to upper right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/No Motion.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/No Motion@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Photo Spin 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Photo Spin 3@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Photo Spin 4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Photo Spin 4@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Rotate to zoom in 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Rotate to zoom in 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Rotate to zoom in 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Rotate to zoom in 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 3@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Spin 4@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch in and zoom in@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch to left.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch to left@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch to right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Stretch to right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Tiny zoom.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Tiny zoom@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Left 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Left 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Left 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Left 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Right 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Right 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Right 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/To the Right 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Up Down 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Up Down 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Up Down 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Up Down 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Wham!.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Wham!@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in 3@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in and out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in and out@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the bottom.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the bottom@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the left.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the left@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the top.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom in to the top@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom In.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom In@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 1@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 2@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out 3@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out to the right.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom out to the right@2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Motion/Zoom Out.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 10.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 10_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 11.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 11_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 12.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 12_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 13.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 13_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 14.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 14_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 15.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 15_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 16.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 16_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 17.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 17_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 18.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 18_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 19.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 19_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 1_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 20.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 20_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 21.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 21_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 22.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 22_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 23.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 23_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 2_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 3_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 4_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 5.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 5_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 6.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 6_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 7.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 7_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 8.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 8_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Captions/Preset/Text style 9_2x.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(1).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(10).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(11).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(12).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(13).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(14).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(15).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(16).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(17).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(18).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(19).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(2).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(3).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(4).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(5).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(6).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(7).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(8).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Cursor1_(9).png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/AncientCanvas.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Binary_1_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Binary_2_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/burntpaper.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/CamcorderOff16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/CamcorderOff4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/CamcorderOn16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/CamcorderOn4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/ColorTuneCircle00.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/ColorTuneCircle01.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/ColorTuneEdge.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/color_explosion.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Concert16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Concert4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/dark.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Dark1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Evaporate_Painted Lines_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Evaporate_Ripple_2_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Filter1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/GrungeRays.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/HardLight.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/heart_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/LinearBurn.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/LinearDodge.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/LinearLight.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/MergeImage.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/MergeLight.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/MergeLinear.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/NightGlassView16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/NightGlassView4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/oldtime.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/OldTV.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Overlay.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/pc_focusColor.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/pf_bubble4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/pf_raindrop.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/pf_shine2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/radial3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Screen.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Sift_2_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Sight16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Sight4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/sketch.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/sketch_black.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/SoftLight.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/StencilPoster.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/StencilPosterGreen.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette4.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette5.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Vignette6.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/VignetteWhite.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/WaterDrop3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/WindowShades16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/WindowShades4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Woven16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Merge/Woven4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A0-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A1-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A3-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A4-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A5-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A6-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A7-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/9ACE53A8-A7B9-439e-8CEB-6BFDBE7AE6FD.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/BCC1FDCE-791D-4f87-B321-A899F655D855.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/BCC2FDCE-791D-4f87-B321-A899F655D855.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/BCC3FDCE-791D-4f87-B321-A899F655D855.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/BCC4FDCE-791D-4f87-B321-A899F655D855.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/lookup/BCC5FDCE-791D-4f87-B321-A899F655D855.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/color_explosion.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/dark.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/pc_focusColor.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/pf_shine2.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/radial3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/sketch_black.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/WindowShades16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/WindowShades4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/Woven16_9.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/Merge/Woven4_3.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/texture/valenciaGradientMap.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/opencl/texture/valenciaMap.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Template/Evaporate 1/Data/Evaporate_Painted Lines_mask.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Effect/Template/Evaporate 1/Evaporate 1.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/00.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/01.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/02.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/03.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/04.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/05.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/06.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/07.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/08.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/09.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/10.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/11.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/12.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/13.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/14.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/15.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/16.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/17.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/18.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_00.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_01.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_02.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_03.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_04.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_05.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_06.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_07.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_08.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_09.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_10.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_11.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_12.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_13.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_14.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_15.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_16.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_17.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/faceoff_18.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Faceoff/mosaic.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/fx-icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/fx11icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/icon-12ugc.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/logo-fs-es.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/00No Mask Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/01.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/01Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/02.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/02Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/03.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/03Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/04.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/04Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/05.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/05Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/06.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/06Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/07.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/07Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/08.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/08Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/09.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/09Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/10.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/10Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/11.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/11Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/12.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/12Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/13.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/13Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/14.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/14Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/15.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/15Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/16.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/16Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/17.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/17Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/18.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/18Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/19.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/19Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/20.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/20Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/21.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/21Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/22.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/22Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/23.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/23Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/24.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/24Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/25.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/25Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/26.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/26Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/27.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/27Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/28.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/28Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/29.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/29Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/30.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/30Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/31.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/31Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/32.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/32Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/33.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/33Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/34.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/34Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/35.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/35Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/36.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/36Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/37.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/37Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/38.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/38Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/39.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/39Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/40.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/40Thumb.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/Masks/add.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/promomarzo.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/rs-caddy-icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/sanvalentin-icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/sorteo.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/UIImages/ElementPerview/EelementBackground.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/UIImages/Missing.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/youtube-icon.png
+/c/Users/Leonardo/Desktop/Escritorio/Wondershare/Wondershare Filmora/YouTube.png
