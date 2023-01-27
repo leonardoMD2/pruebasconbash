@@ -15,7 +15,7 @@ busqueda (){
 busqueda $1
 #mandamos a llamar la función y le pasamos el argumento
 echo 'script finalizado v2.0'
-
+#terminal linux agregadaa
 
 
 
